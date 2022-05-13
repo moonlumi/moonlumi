@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Well hello there,I'm Amal</h1>
-<h3 align="center">Coder by choice</h3>
+<h3 align="center">You are the CSS to my HTML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlumi&label=Profile%20views&color=0e75b6&style=flat" alt="moonlumi" /> </p>
 
